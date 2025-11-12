@@ -6,8 +6,8 @@
 
 I'm a Computer Science Engineering student specializing in Data Science, passionate about problem-solving and building efficient software solutions. I enjoy working on projects that challenge my understanding of algorithms, data structures, and software development principles.
 
-- 🔭 **Education:** 3rd Year B.Tech CSE (Data Science)
-- 🌱 **Currently learning:** Data Structures, Algorithms, Software Development
+- 🔭 **Education:** 10th-12th: Kendriya Vidyalaya CRPF | UG: Sai Vidya Institute of Technology - B.E CSE (Data Science)
+- 🌱 **Currently learning:** Data Structures, ADA (Analysis and Design of Algorithms), Python, C, JavaDevelopment
 - 💼 **Looking for:** Internship opportunities and collaborative projects
 - 📚 **Focus areas:** Core programming, Data Science, Software Engineering
 
@@ -34,8 +34,13 @@ I'm a Computer Science Engineering student specializing in Data Science, passion
 ### 📌 Featured Projects
 
 #### 🎯 Clara Monorepo
-A real-time communication platform built with modern web technologies. Features include video calling and real-time messaging capabilities.
-
+**CLARA_FINAL** - AI-Powered Virtual Reception & Staff Management System for educational institutions. An enterprise-grade solution combining artificial intelligence, real-time communication, and modular multi-user dashboards. Key features:
+- 🤖 Natural speech understanding in Indian regional languages
+- 📅 Automated appointment scheduling with faculty
+- 📊 Faculty timetable management
+- 📹 Live video calls between students and staff
+- 🔒 Private, isolated staff dashboards
+- 🔄 Replaces traditional front desks with 24/7 intelligent assistant
 #### 🛒 E-commerce Projects
 Full-stack e-commerce applications demonstrating CRUD operations, user authentication, and responsive design.
 
