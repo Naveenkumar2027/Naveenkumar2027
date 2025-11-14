@@ -38,16 +38,7 @@ I'm a Computer Science Engineering student specializing in Data Science, passion
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
----
 
-### ☁️ Nextcloud Ecosystem Work
-
-As a candidate for Nextcloud internship, I've been actively working with the Nextcloud ecosystem:
-
-- 💻 **SmartTalk Integration**: Built an AI-integrated conversational container that enhances NextTalk within Nextcloud
-- - 🚀 **Technologies Used**: React, TailwindCSS, Framer Motion, BroadcastChannel API
-  - - 🎯 **Learning Path**: Currently learning PHP and Vue.js to contribute more effectively to Nextcloud core
-    - - ❤️ **Open Source Commitment**: Eager to contribute to Nextcloud's mission of providing secure, self-hosted collaboration tools
 
 ### 📌 Featured Projects
 
@@ -86,8 +77,7 @@ Various data analysis and machine learning projects showcasing problem-solving w
 
 ### 📊 My Open Source Journey
 
-🔥 **65+ contributions** in the last year  
-📝 **6 pull requests** across multiple repositories  
+🔥 **65+ contributions** in the last year   
 ⭐ **Actively maintaining** and updating projects  
 📖 **Committed** to daily coding and continuous learning  
 🎯 **Balancing** academics with practical software development
