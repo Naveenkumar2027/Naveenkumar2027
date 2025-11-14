@@ -75,7 +75,7 @@ Various data analysis and machine learning projects showcasing problem-solving w
 
 ---
 
-### 📊 My Acitivitiez
+### 📊 My Activities
 
 🔥 **65+ contributions** in the last year  
 ⭐ **Actively maintaining** and updating projects  
