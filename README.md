@@ -61,7 +61,7 @@ Full-stack e-commerce applications demonstrating CRUD operations, user authentic
 **Naandi** is a full-stack community services marketplace built with Node.js and Express. It lets vendors register and submit portfolios, admins review and approve listings, and customers book services. The app includes file uploads for vendor media, a MongoDB database (via Mongoose), and Socket.IO real-time events for admin/vendor notifications. It's designed for quick local deployment and iteration.
 
 #### 🧠 SmartTalk (NextMind)
-**Repository**: [GitHub - SmartTalk_NextMind](https://github.com/Naveenkumar2027/final_nextmind) | **Video Demo**: [YouTube Demo](https://youtu.be/eXZ2n51xEBA?si=IYXf0KAEPemEhnLj) | **Live Demo**: [Try it here](https://nextcloud-frontend-ji8w.vercel.app/)
+**Repository**: [GitHub - SmartTalk_NextMind](https://github.com/Naveenkumar2027/final_nextmind) | **Live Demo**: [Try it here](https://nextcloud-frontend-ji8w.vercel.app/)
 **SmartTalk** - AI-integrated, real-time conversational container enhancing the NextTalk experience within the Nextcloud ecosystem. Combines smooth UI transitions, dynamic responsiveness, and real-time message synchronization. Key features:
 - 💬 Floating widget launcher with sleek animations
 - ⚡ Zero-delay real-time messaging via NextTalk's live event stream
