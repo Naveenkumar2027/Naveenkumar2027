@@ -52,9 +52,9 @@ As a candidate for Nextcloud internship, I've been actively working with the Nex
 ### 📌 Featured Projects
 
 #### 🎯 Clara Monorepo
-**Repository**: [GitHub - CLARA_The_AI_receptionist](https://github.com/Naveenkumar2027/clara_the_ai_receptionist) | **Live Demo**: [Add demo link here]
+**Repository**: [GitHub - CLARA_The_AI_receptionist](https://github.com/Naveenkumar2027/clara_the_ai_receptionist) 
 
-**CLARA_FINAL** - AI-Powered Virtual Reception & Staff Management System for educational institutions. An enterprise-grade solution combining artificial intelligence, real-time communication, and modular multi-user dashboards. Key features:
+**CLARA_The_AI_Receptionist** - AI-Powered Virtual Reception & Staff Management System for educational institutions. An enterprise-grade solution combining artificial intelligence, real-time communication, and modular multi-user dashboards. Key features:
 - 🤖 Natural speech understanding in Indian regional languages
 - 📅 Automated appointment scheduling with faculty
 - 📊 Faculty timetable management
