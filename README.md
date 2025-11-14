@@ -1,6 +1,6 @@
 # Hi there, I'm Naveen Kumar! 👋
 
-## 🎓 3rd Year CSE (Data Science) Student | Aspiring Software Developer
+## 🎓 3rd Year CSE (Data Science) Student 
 
 ### 📫 Contact Information
 
