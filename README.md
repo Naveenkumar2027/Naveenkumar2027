@@ -75,19 +75,12 @@ Various data analysis and machine learning projects showcasing problem-solving w
 
 ---
 
-### 📊 My Open Source Journey
+### 📊 My Acitivitiez
 
-🔥 **65+ contributions** in the last year   
+🔥 **65+ contributions** in the last year  
 ⭐ **Actively maintaining** and updating projects  
 📖 **Committed** to daily coding and continuous learning  
 🎯 **Balancing** academics with practical software development
-
-#### 🔗 Notable Contributions & Pull Requests
-
-- 🚀 **[Nextcloud Related PR]**: [Description of PR] - [View PR](https://github.com/link-to-your-pr)
-- - 🔧 **[Project Name]**: Fixed bug/Added feature - [View PR](https://github.com/link-to-your-pr)
-  - - 📚 **[Documentation]**: Improved documentation for [project] - [View PR](https://github.com/link-to-your-pr)
-    - - ✨ Check my [GitHub Profile](https://github.com/Naveenkumar2027) for more contributions
 
 ---
 
