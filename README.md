@@ -78,7 +78,7 @@ Various data analysis and machine learning projects showcasing problem-solving w
 
 ### 📊 My Activities
 
-🔥 **90+ contributions** in the last year  
+🔥 **120+ contributions** in the last year  
 ⭐ **Actively maintaining** and updating projects  
 📖 **Committed** to daily coding and continuous learning  
 🎯 **Balancing** academics with practical software development
